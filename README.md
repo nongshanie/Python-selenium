@@ -14,7 +14,7 @@
 
 > **Python发展趋势图**
 
-![image](http://www.nongshanie.com/develop.png)
+![image](https://github.com/nongshanie/Python-selenium/blob/master/images/develop.png)
 
 
 > **Python语言特点**
